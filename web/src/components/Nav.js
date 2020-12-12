@@ -23,16 +23,7 @@ export default function Nav() {
     <ul>
       <NavStyles>
         <li>
-          <Link to="/essays">Essays</Link>
-        </li>
-        <li>
-          <Link to="/classes">Classes</Link>
-        </li>
-        <li>
-          <Link to="/work">Design Work</Link>
-        </li>
-        <li>
-          <Link to="https://twitter.com/joshuachrls">Twitter</Link>
+          <Link to="/blog">Blog</Link>
         </li>
       </NavStyles>
     </ul>
